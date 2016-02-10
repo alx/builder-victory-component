@@ -9,7 +9,7 @@ Thanks for helping out! We couldn't build Victory without the support of our awe
 
 We love issues!
 
-If you find a bug :bug: the first thing you should do is search for an existing issue describing your problem. It helps if you can add more detail or a reproduction case. See [this list of repos](https://github.com/FormidableLabs/victory/blob/master/CONTRIBUTING.md#fix-bugs), and scroll through or use the search feature.
+If you find a bug :bug: the first thing you should do is search for an existing issue describing your problem. It helps if you can add more detail or a reproduction case. See [this list of repos](https://github.com/FormidableLabs/builder-victory-component/blob/master/dev/CONTRIBUTING.md#2-fix-bugs), and scroll through or use the search feature.
 
 If you can't find an existing issue, [create a new issue](https://github.com/FormidableLabs/victory/issues/new?labels=bug). **Please add a JSBin or Fiddle demonstrating the issue**. This is the _number one_ most important thing you can do to help us fix the bug!
 
@@ -41,7 +41,7 @@ When you've fixed the bug, it's time to write some tests to ensure important cor
 
 ### 3. Create a PR
 
-Submit a PR by clicking "New pull request" from your fork's main repo page. Before submitting a PR, please read the [Developer's Guide](https://github.com/FormidableLabs/victory/blob/master/CONTRIBUTING.md#developers-guide) below. It will help you stay consistent with the code style and get your PRs merged sooner!
+Submit a PR by clicking "New pull request" from your fork's main repo page. Before submitting a PR, please read the [Developer's Guide](https://github.com/FormidableLabs/builder-victory-component/blob/master/dev/CONTRIBUTING.md#developers-guide) below. It will help you stay consistent with the code style and get your PRs merged sooner!
 
 We prefer that you fold all your commits into one for bug fixes. It's easy:
 
@@ -67,7 +67,7 @@ Make sure to mention the issue **`#number`** in the commit message!
 
 ## Developer's Guide
 
-This is an overview. For a more in-depth guide, see [`DEVELOPMENT.md`](https://github.com/FormidableLabs/victory/blob/master/DEVELOPMENT.md#development).
+This is an overview. For a more in-depth guide, see [`DEVELOPMENT.md`](https://github.com/FormidableLabs/builder-victory-component/blob/master/dev/DEVELOPMENT.md#development).
 
 **Note: Victory requires `npm v3`**. To upgrade your global `npm` installation, run `npm install -g npm@3`.
 
